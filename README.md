@@ -2,6 +2,8 @@
 
 A lightweight userscript designed to streamline the process of reading obfuscated or hashed URLs in plaintext formats. The script operates client-side to parse Base64 strings embedded in standard code blocks and renders them dynamically next to the original source.
 
+![Inline Base64 Reveal Preview](https://github.com/user-attachments/assets/4628acaf-9277-4609-a24b-29ee49f7ec66)
+
 ## Features
 
 * **Automatic Decoding:** Validates and resolves Base64 strings over 16 characters in length to prevent false positives.
